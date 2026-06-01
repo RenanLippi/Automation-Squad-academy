@@ -40,8 +40,7 @@ Teste 03
 
     Location Should Contain    linkedin.com
 
-    #Wait Until Element Is Visible  //h1[@title="Sauce Labs"]
-
+    
 
  
 
